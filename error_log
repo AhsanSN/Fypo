@@ -1,0 +1,121 @@
+[29-Jul-2019 13:38:29 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fyp.anomoz.com/global.php on line 23
+[29-Jul-2019 13:38:29 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fyp.anomoz.com/global.php on line 23
+[29-Jul-2019 13:38:29 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fyp.anomoz.com/global.php on line 24
+[29-Jul-2019 13:38:36 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fyp.anomoz.com/global.php on line 23
+[29-Jul-2019 13:38:36 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fyp.anomoz.com/global.php on line 23
+[29-Jul-2019 13:38:36 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fyp.anomoz.com/global.php on line 24
+[29-Jul-2019 13:38:54 Europe/London] PHP Notice:  Undefined index: userId in /home/anomozco/fyp.anomoz.com/global.php on line 19
+[29-Jul-2019 13:40:17 Europe/London] PHP Notice:  Undefined index: userId in /home/anomozco/fyp.anomoz.com/global.php on line 19
+[29-Jul-2019 13:40:18 Europe/London] PHP Notice:  Undefined index: userId in /home/anomozco/fyp.anomoz.com/global.php on line 19
+[29-Jul-2019 13:41:16 Europe/London] PHP Notice:  Undefined index: userId in /home/anomozco/fyp.anomoz.com/global.php on line 19
+[29-Jul-2019 13:41:34 Europe/London] PHP Notice:  Undefined index: userId in /home/anomozco/fyp.anomoz.com/global.php on line 19
+[29-Jul-2019 13:41:36 Europe/London] PHP Notice:  Undefined index: userId in /home/anomozco/fyp.anomoz.com/global.php on line 19
+[29-Jul-2019 14:56:32 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fyp.anomoz.com/global.php on line 23
+[29-Jul-2019 14:56:32 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fyp.anomoz.com/global.php on line 23
+[29-Jul-2019 14:56:32 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fyp.anomoz.com/global.php on line 24
+[29-Jul-2019 14:56:35 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fyp.anomoz.com/global.php on line 23
+[29-Jul-2019 14:56:35 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fyp.anomoz.com/global.php on line 23
+[29-Jul-2019 14:56:35 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fyp.anomoz.com/global.php on line 24
+[29-Jul-2019 14:56:37 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fyp.anomoz.com/global.php on line 23
+[29-Jul-2019 14:56:37 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fyp.anomoz.com/global.php on line 23
+[29-Jul-2019 14:56:37 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fyp.anomoz.com/global.php on line 24
+[29-Jul-2019 15:00:13 Europe/London] PHP Warning:  require(globala.php): failed to open stream: No such file or directory in /home/anomozco/fyp.anomoz.com/index.php on line 1
+[29-Jul-2019 15:00:13 Europe/London] PHP Fatal error:  require(): Failed opening required 'globala.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/anomozco/fyp.anomoz.com/index.php on line 1
+[30-Jul-2019 08:41:14 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fyp.anomoz.com/global.php on line 23
+[30-Jul-2019 08:41:14 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fyp.anomoz.com/global.php on line 23
+[30-Jul-2019 08:41:14 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fyp.anomoz.com/global.php on line 24
+[30-Jul-2019 11:33:08 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fyp.anomoz.com/global.php on line 23
+[30-Jul-2019 11:33:08 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fyp.anomoz.com/global.php on line 23
+[30-Jul-2019 11:33:08 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fyp.anomoz.com/global.php on line 24
+[31-Jul-2019 07:10:05 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fyp.anomoz.com/global.php on line 23
+[31-Jul-2019 07:10:05 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fyp.anomoz.com/global.php on line 23
+[31-Jul-2019 07:10:05 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fyp.anomoz.com/global.php on line 24
+[31-Jul-2019 07:10:50 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fyp.anomoz.com/global.php on line 23
+[31-Jul-2019 07:10:50 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fyp.anomoz.com/global.php on line 23
+[31-Jul-2019 07:10:50 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fyp.anomoz.com/global.php on line 24
+[31-Jul-2019 07:11:43 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fyp.anomoz.com/global.php on line 23
+[31-Jul-2019 07:11:43 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fyp.anomoz.com/global.php on line 23
+[31-Jul-2019 07:11:43 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fyp.anomoz.com/global.php on line 24
+[31-Jul-2019 07:11:54 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fyp.anomoz.com/global.php on line 23
+[31-Jul-2019 07:11:54 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fyp.anomoz.com/global.php on line 23
+[31-Jul-2019 07:11:54 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fyp.anomoz.com/global.php on line 24
+[31-Jul-2019 07:13:18 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fyp.anomoz.com/global.php on line 23
+[31-Jul-2019 07:13:18 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fyp.anomoz.com/global.php on line 23
+[31-Jul-2019 07:13:18 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fyp.anomoz.com/global.php on line 24
+[31-Jul-2019 07:24:08 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fypo.anomoz.com/global.php on line 23
+[31-Jul-2019 07:24:08 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fypo.anomoz.com/global.php on line 23
+[31-Jul-2019 07:24:08 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fypo.anomoz.com/global.php on line 24
+[31-Jul-2019 07:25:17 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fypo.anomoz.com/global.php on line 23
+[31-Jul-2019 07:25:17 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fypo.anomoz.com/global.php on line 23
+[31-Jul-2019 07:25:17 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fypo.anomoz.com/global.php on line 24
+[31-Jul-2019 07:26:59 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fypo.anomoz.com/global.php on line 23
+[31-Jul-2019 07:26:59 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fypo.anomoz.com/global.php on line 23
+[31-Jul-2019 07:26:59 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fypo.anomoz.com/global.php on line 24
+[31-Jul-2019 07:27:34 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fypo.anomoz.com/global.php on line 23
+[31-Jul-2019 07:27:34 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fypo.anomoz.com/global.php on line 23
+[31-Jul-2019 07:27:34 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fypo.anomoz.com/global.php on line 24
+[31-Jul-2019 07:29:45 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fypo.anomoz.com/global.php on line 23
+[31-Jul-2019 07:29:45 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fypo.anomoz.com/global.php on line 23
+[31-Jul-2019 07:29:45 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fypo.anomoz.com/global.php on line 24
+[31-Jul-2019 07:37:21 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fypo.anomoz.com/global.php on line 23
+[31-Jul-2019 07:37:21 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fypo.anomoz.com/global.php on line 23
+[31-Jul-2019 07:37:21 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fypo.anomoz.com/global.php on line 24
+[31-Jul-2019 07:37:36 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fypo.anomoz.com/global.php on line 23
+[31-Jul-2019 07:37:36 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fypo.anomoz.com/global.php on line 23
+[31-Jul-2019 07:37:36 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fypo.anomoz.com/global.php on line 24
+[31-Jul-2019 07:39:17 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fypo.anomoz.com/global.php on line 23
+[31-Jul-2019 07:39:17 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fypo.anomoz.com/global.php on line 23
+[31-Jul-2019 07:39:17 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fypo.anomoz.com/global.php on line 24
+[31-Jul-2019 07:39:22 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fypo.anomoz.com/global.php on line 23
+[31-Jul-2019 07:39:22 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fypo.anomoz.com/global.php on line 23
+[31-Jul-2019 07:39:22 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fypo.anomoz.com/global.php on line 24
+[31-Jul-2019 07:39:25 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fypo.anomoz.com/global.php on line 23
+[31-Jul-2019 07:39:25 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fypo.anomoz.com/global.php on line 23
+[31-Jul-2019 07:39:25 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fypo.anomoz.com/global.php on line 24
+[31-Jul-2019 07:56:01 Europe/London] PHP Notice:  Undefined variable: session_name in /home/anomozco/fypo.anomoz.com/home.php on line 954
+[31-Jul-2019 08:32:09 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fypo.anomoz.com/global.php on line 18
+[31-Jul-2019 08:32:09 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fypo.anomoz.com/global.php on line 18
+[31-Jul-2019 08:32:09 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fypo.anomoz.com/global.php on line 19
+[31-Jul-2019 08:32:09 Europe/London] PHP Notice:  Undefined variable: session_name in /home/anomozco/fypo.anomoz.com/phpParts/upperBar.php on line 419
+[31-Jul-2019 08:32:09 Europe/London] PHP Notice:  Undefined variable: session_email in /home/anomozco/fypo.anomoz.com/phpParts/upperBar.php on line 422
+[31-Jul-2019 10:38:31 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fypo.anomoz.com/global.php on line 18
+[31-Jul-2019 10:38:31 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fypo.anomoz.com/global.php on line 18
+[31-Jul-2019 10:38:31 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fypo.anomoz.com/global.php on line 19
+[31-Jul-2019 10:38:52 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fypo.anomoz.com/global.php on line 18
+[31-Jul-2019 10:38:52 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fypo.anomoz.com/global.php on line 18
+[31-Jul-2019 10:38:52 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fypo.anomoz.com/global.php on line 19
+[31-Jul-2019 10:38:55 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fypo.anomoz.com/global.php on line 18
+[31-Jul-2019 10:38:55 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fypo.anomoz.com/global.php on line 18
+[31-Jul-2019 10:38:55 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fypo.anomoz.com/global.php on line 19
+[31-Jul-2019 11:33:08 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fypo.anomoz.com/global.php on line 18
+[31-Jul-2019 11:33:08 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fypo.anomoz.com/global.php on line 18
+[31-Jul-2019 11:33:08 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fypo.anomoz.com/global.php on line 19
+[31-Jul-2019 11:33:18 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fypo.anomoz.com/global.php on line 18
+[31-Jul-2019 11:33:18 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fypo.anomoz.com/global.php on line 18
+[31-Jul-2019 11:33:18 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fypo.anomoz.com/global.php on line 19
+[31-Jul-2019 11:33:18 Europe/London] PHP Notice:  Undefined variable: session_name in /home/anomozco/fypo.anomoz.com/phpParts/upperBar.php on line 419
+[31-Jul-2019 11:33:18 Europe/London] PHP Notice:  Undefined variable: session_email in /home/anomozco/fypo.anomoz.com/phpParts/upperBar.php on line 422
+[31-Jul-2019 11:33:24 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fypo.anomoz.com/global.php on line 18
+[31-Jul-2019 11:33:24 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fypo.anomoz.com/global.php on line 18
+[31-Jul-2019 11:33:24 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fypo.anomoz.com/global.php on line 19
+[31-Jul-2019 11:33:26 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fypo.anomoz.com/global.php on line 18
+[31-Jul-2019 11:33:26 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fypo.anomoz.com/global.php on line 18
+[31-Jul-2019 11:33:26 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fypo.anomoz.com/global.php on line 19
+[01-Aug-2019 08:02:22 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fypo.anomoz.com/global.php on line 18
+[01-Aug-2019 08:02:22 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fypo.anomoz.com/global.php on line 18
+[01-Aug-2019 08:02:22 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fypo.anomoz.com/global.php on line 19
+[01-Aug-2019 15:07:38 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fypo.anomoz.com/global.php on line 18
+[01-Aug-2019 15:07:38 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fypo.anomoz.com/global.php on line 18
+[01-Aug-2019 15:07:38 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fypo.anomoz.com/global.php on line 19
+[02-Aug-2019 08:44:38 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fypo.anomoz.com/global.php on line 18
+[02-Aug-2019 08:44:38 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fypo.anomoz.com/global.php on line 18
+[02-Aug-2019 08:44:38 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fypo.anomoz.com/global.php on line 19
+[02-Aug-2019 08:44:44 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fypo.anomoz.com/global.php on line 18
+[02-Aug-2019 08:44:44 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fypo.anomoz.com/global.php on line 18
+[02-Aug-2019 08:44:44 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fypo.anomoz.com/global.php on line 19
+[02-Aug-2019 08:44:46 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fypo.anomoz.com/global.php on line 18
+[02-Aug-2019 08:44:46 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fypo.anomoz.com/global.php on line 18
+[02-Aug-2019 08:44:46 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fypo.anomoz.com/global.php on line 19
+[02-Aug-2019 15:46:32 Europe/London] PHP Notice:  Undefined variable: query in /home/anomozco/fypo.anomoz.com/global.php on line 18
+[02-Aug-2019 15:46:32 Europe/London] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/fypo.anomoz.com/global.php on line 18
+[02-Aug-2019 15:46:32 Europe/London] PHP Notice:  Trying to get property of non-object in /home/anomozco/fypo.anomoz.com/global.php on line 19
