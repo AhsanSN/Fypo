@@ -91,7 +91,17 @@ if(isset($_GET["deletePost"])){
 <html lang="en">
 
 <head>
-    <?require "./phpParts/header.php"?> 
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Language" content="en">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Fypo - Anomoz Softwares</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no" />
+    <meta name="description" content="This is an example dashboard created using build-in elements and components.">
+    <meta name="msapplication-tap-highlight" content="no">
+<link href="./newMain.css" rel="stylesheet">
+<link href="https://demo.dashboardpack.com/architectui-html-pro/main.cba69814a806ecc7945a.css" rel="stylesheet">
+
 </head>
 <body>
     <div class="app-container app-theme-white body-tabs-shadow fixed-sidebar fixed-header">
@@ -196,33 +206,34 @@ if(isset($_GET["deletePost"])){
                         }
                         ?>
                         </div>
-                        <div id="feed" class="col-lg-5 col-sm-0">
+                        <div id="feed" class="col-lg-4 col-sm-0">
                         <!--here goes content-->
-                        <div class="main-card mb-3 card">
-                                        <div class="card-header-tab card-header">
-                                        <div class="card-header-title">
-                                            <i class="header-icon lnr-rocket icon-gradient bg-tempting-azure"> </i>
-                                            <?echo $row['title']?> - <?echo $newDateTime?> 
-                                        </div>
-                                        <div class="btn-actions-pane-right">
-                                            <div class="nav">
-                                                <a href="./home?deletePost=<?echo $row['id']?>" class="ml-1 btn-pill btn-wide border-0 btn-transition  btn btn-outline-alternate second-tab-toggle-alt">Delete</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    
-                                            <div class="card-body">
-                                                <p><?echo $row['content']?></p>
-                                                <?if($row['image']!=''){?>
-                                                <img src="./photo_gallery/<?echo $row['image']?>" style="width:100%;">
-                                                <?}?>
-                                                </div>
-                                        </div>
                   
                         
                         </div>
                     </div>
-                    <?require "./phpParts/footer.php"?>    
+                    <div class="app-wrapper-footer">
+                        <div class="app-footer">
+                            <div class="app-footer__inner">
+                                
+                                <div class="app-footer-right">
+                                    <ul class="nav">
+                                        
+                                        <li class="nav-item">
+                                            <a href="https://www.anomoz.com" class="nav-link">
+                                                <!--
+                                                <div class="badge badge-success mr-1 ml-0">
+                                                    <small>NEW</small>
+                                                </div>
+                                                -->
+                                                Built by Anomoz Softwares
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>    
                 </div>
         </div>
     </div>

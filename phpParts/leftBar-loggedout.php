@@ -33,7 +33,7 @@
                     <div class="scrollbar-sidebar">
                         <div class="app-sidebar__inner">
                             <ul class="vertical-nav-menu">
-                                <li class="app-sidebar__heading">Projects</li>
+                                <li class="app-sidebar__heading">You are logged out</li>
                                 <?if($noProjects){
                                     ?>
                                     <li>
@@ -56,15 +56,6 @@
                                 }
                                 ?>
                                 
-                                <!--
-                                <li class="app-sidebar__heading">Settings</li>
-                                <li>
-                                    <a href="charts-chartjs.html">
-                                        <i class="metismenu-icon pe-7s-graph2">
-                                        </i>Settings
-                                    </a>
-                                </li>
-                                -->
                             </ul>
                         </div>
                     </div>
